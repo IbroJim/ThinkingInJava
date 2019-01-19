@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="410701aa-f127-4c5b-955c-cf378f598702" name="Default Changelist" comment="" />
+    <list default="true" id="410701aa-f127-4c5b-955c-cf378f598702" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ExampleTwo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExampleTwo/src/com/company/project/exampletwo/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Глава 2.Все является обьектом/example 9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example 3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/parth/two/examople/seven/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            <state relative-caret-position="340">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,6 +47,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -32,24 +57,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545849957420" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,10 +120,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="676" y="0" width="697" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04709576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -128,8 +154,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/parth/two/examople/seven/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
