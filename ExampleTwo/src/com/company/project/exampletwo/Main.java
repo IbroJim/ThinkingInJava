@@ -1,6 +1,7 @@
 package com.company.project.exampletwo;
 
-import com.company.project.exampletwo.Chapter6.WorkOut6;
+import com.company.project.exampletwo.Chapter6.WorkOut3;
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -9,11 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Сальме Ибраим");
-        //setupChapter();
-        WorkOut6 workOut6=new WorkOut6();
-        workOut6.run();
-
-
+        setupChapter();
     }
     private static void setupChapter(){
         System.out.println("Выберите главу:");

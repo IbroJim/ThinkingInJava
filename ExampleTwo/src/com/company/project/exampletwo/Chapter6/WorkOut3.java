@@ -9,13 +9,13 @@ public class WorkOut3 extends HomeWork {
     }
 
     @Override
-    protected void run() {
+    public void run() {
         Detergent detergent = new Detergent();
         detergent.dilute();
         detergent.apply();
         detergent.scrub();
         detergent.foam();
-        System.out.println(detergent);
+        detergent.toString();
     }
 
     @Override
@@ -25,7 +25,8 @@ public class WorkOut3 extends HomeWork {
 
   private   class Cleanser{
          private String s="Cleanser";
-         public void append(String a){ s+=a; }
+         public void append(String a){ s+=a;
+             System.out.println(s);}
          public void dilute(){append("dilute()");}
          public void apply(){append("apply ()");}
          public void scrub(){append("scrub()");}
@@ -51,6 +52,7 @@ public class WorkOut3 extends HomeWork {
         public void apply(){
             cleanser.apply();
         }
-    }
+
+   }
 
 }

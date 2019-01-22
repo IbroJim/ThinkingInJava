@@ -9,6 +9,7 @@ public class DataList {
    private static HomeWork[] chapter2=new HomeWork[]{new com.company.project.exampletwo.Chapter2.WorkOut1(),new com.company.project.exampletwo.Chapter2.WorkOut2(),new com.company.project.exampletwo.Chapter2.WorkOut3()};
    private static HomeWork[] chapter3=new HomeWork[]{new com.company.project.exampletwo.Chapter3.WorkOut1(),new com.company.project.exampletwo.Chapter3.WorkOut2(),new com.company.project.exampletwo.Chapter3.WorkOut3()};
    private static HomeWork[] chapter4=new HomeWork[]{new com.company.project.exampletwo.Chapter4.WorkOut1(),new com.company.project.exampletwo.Chapter4.WorkOut2(),new com.company.project.exampletwo.Chapter4.WorkOut3(),new com.company.project.exampletwo.Chapter4.WorkOut4(),new com.company.project.exampletwo.Chapter4.WorkOut5()};
+   private static HomeWork[] chapter5=new HomeWork[]{new com.company.project.exampletwo.Chapter5.WorkOut1(),new com.company.project.exampletwo.Chapter5.WorkOut2()};
    private static HomeWork[] chapter6=new HomeWork[]{new com.company.project.exampletwo.Chapter6.WorkOut1(),new com.company.project.exampletwo.Chapter6.WorkOut2(),new com.company.project.exampletwo.Chapter6.WorkOut3(),new com.company.project.exampletwo.Chapter6.WorkOut4(),new com.company.project.exampletwo.Chapter6.WorkOut5(),new com.company.project.exampletwo.Chapter6.WorkOut6()};
    private static HomeWork[] chapter7=new HomeWork[]{new com.company.project.exampletwo.Chapter7.WorkOut1(),new com.company.project.exampletwo.Chapter7.WorkOut2(),new com.company.project.exampletwo.Chapter7.WorkOut3(),new com.company.project.exampletwo.Chapter7.WorkOut4()};
 
@@ -24,6 +25,7 @@ public class DataList {
         chapterList.add(chapter2);
         chapterList.add(chapter3);
         chapterList.add(chapter4);
+        chapterList.add(chapter5);
         chapterList.add(chapter6);
         chapterList.add(chapter7);
         return chapterList;
